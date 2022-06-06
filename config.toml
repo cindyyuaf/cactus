@@ -1,4 +1,4 @@
-baseURL = 'http://127.0.0.1:1313/'
+baseURL = 'https://cactus.cindythink.com/'
 languageCode = 'zh-cn'
 DefaultContentLanguage = "zh" # Theme's display language, supports: en, fr, zh, zh-hant
 title = '修炼成精的仙人球日记'
