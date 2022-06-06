@@ -1,0 +1,51 @@
+baseURL = 'http://127.0.0.1:1313/'
+languageCode = 'zh-cn'
+DefaultContentLanguage = "zh" # Theme's display language, supports: en, fr, zh, zh-hant
+title = '修炼成精的仙人球日记'
+copyright = '修炼成精'
+theme = "diary"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "perldoc"
+    tabWidth = 4
+
+[params]
+subtitle = '种球、更要种好球'
+enableGitalk = false
+
+# Twitter Card and Open Graph settings
+enableOpenGraph = true
+enableTwitterCards = false
+title = "修炼成精的仙人球日记" # will set 'og:site_name'
+description = "种球、更要种好球"  # will set 'og:description'
+
+[params.utterances]
+repo="your repo"
+term="[ENTER TERM HERE]"
+label="your label"
+theme="github-light"
+
+[[menu.main]]
+url = "/categories"
+name = "分类"
+weight = 2
+[[menu.main]]
+url = "/tags"
+name = "标签"
+weight = 3
+[[menu.main]]
+url = "/posts"
+name = "往期回顾"
+weight = 1
+[[menu.main]]
+url = "/index.xml"
+name = "RSS 订阅"
+weight = 4

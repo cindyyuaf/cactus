@@ -1,0 +1,8 @@
+# hugo build lock
+.hugo_build.lock
+
+# hugo cache
+resources/_gen
+
+# generated site
+public/
