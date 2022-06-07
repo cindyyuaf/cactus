@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}" # 标题
-intro: "此处为博文摘要" # 不超过 60 字
+description: "此处为博文摘要" # 不超过 60 字
 featured_image: "" # 封面照片
 date: {{ .Date }}
 draft: true # 是否为草稿（草稿不会出现在博客中）；写完记得删去此行

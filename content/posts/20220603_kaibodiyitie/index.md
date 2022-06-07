@@ -1,6 +1,6 @@
 ---
 title: "休息日日常" # 标题
-description: "端午假期等一天" # 不超过 60 字
+description: "端午假期第一天" # 不超过 60 字
 featured_image: "b1161fc2b059a65d9156aab6e4dbf3e.jpg" # 封面照片
 date: 2022-06-03T19:04:07+08:00
 
