@@ -1,7 +1,7 @@
 ---
 title: "环境很重要" # 标题
 description: "一个适合的环境，会让你事半功倍" # 不超过 60 字
-featured_image: "" # 封面照片
+featured_image: "117948787557c87b069d8d1e4dbceeb.jpg" # 封面照片
 date: 2022-06-07T20:31:01+08:00
 
 categories: "仙人球" # 分类
