@@ -1,5 +1,5 @@
 ---
-title: "20220609_duanshe Li" # 标题
+title: "20220609_死出来的经验" # 标题
 description: "死出来的经验" # 不超过 60 字
 featured_image: "c121b1eb842dc3ebf52dfca658f8162.jpg" # 封面照片
 date: 2022-06-09T20:06:25+08:00
